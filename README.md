@@ -16,7 +16,8 @@ This repository serves as a public anchor and placeholder.
 Implementation details, formal specifications, and applied use cases are intentionally not included at this stage.
 
 
-ChurPrimo (churprimo(c) 2026) = Coherence Engine for agentic AI
+ChurPrimo©️2026 
+Coherence Engine for agentic AI
 7 Phase Governance
 Contact: Kathryn Sughero
 sugherosystems@gmail.com
