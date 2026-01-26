@@ -18,6 +18,6 @@ Implementation details, formal specifications, and applied use cases are intenti
 
 ChurPrimo©️2026 
 Coherence Engine for agentic AI
-7 Phase Governance
+Phase-aware Governance
 Contact: Kathryn Sughero
 sugherosystems@gmail.com
