@@ -14,3 +14,9 @@ CHURPRIMO is designed as a runtime governance layer, not a belief system, policy
 Current status: early-stage reference architecture.
 This repository serves as a public anchor and placeholder.
 Implementation details, formal specifications, and applied use cases are intentionally not included at this stage.
+
+
+ChurPrimo = Coherence Engine for agentic AI
+7 Phase Governance
+Contact: Kathryn Sughero
+sugherosystems@gmail.com
