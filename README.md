@@ -6,7 +6,7 @@ Most agentic AI fails not because models are weak, but because interactions drif
 
 At its core, CHURPRIMO models coherence as a recursive process. It tracks how intent enters a system, how it amplifies through interaction, where rupture occurs, and whether the system can return, recalibrate, and persist without degradation.
 
-This is not AI safety theater.
+This is not AI safety.
 This is interaction physics.
 
 CHURPRIMO is designed as a runtime governance layer, not a belief system, policy document, or static ruleset. It does not prescribe behavior. It measures phase, detects drift, and enables systems to regain coherence while remaining agentic.
