@@ -21,5 +21,7 @@ ChurPrimo©️2026
 Coherence Engine for agentic AI
 
 Phase-aware Governance
-Contact: Kathryn Sughero
+Contact: 
+
+Kathryn Sughero
 sugherosystems@gmail.com
