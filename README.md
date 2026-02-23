@@ -16,7 +16,7 @@ This repository serves as a public anchor and placeholder.
 Implementation details, formal specifications, and applied use cases are intentionally not included at this stage.
 
 
-ChurPrimo©️2026 
+CHURPRIMO©️2026 
 
 Coherence Engine for agentic AI
 
