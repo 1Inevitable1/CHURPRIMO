@@ -4,7 +4,7 @@ CHURPRIMO is a coherence engine for agentic systems.
 
 Most agentic AI fails not because models are weak, but because interactions drift. Systems act without knowing when they are destabilizing, escalating, fragmenting, or losing internal reference. CHURPRIMO addresses this by treating interaction itself as a governed dynamic.
 
-At its core, CHURPRIMO models coherence as a recursive process. It tracks how intent enters a system, how it amplifies through interaction, where rupture occurs, and whether the system can return, recalibrate, and persist without degradation.
+At its core, CHURPRIMO models coherence as a recursive process. It tracks how intent enters a system, how it amplifies through interaction, where rupture occurs, and whether the system can recalibrate without degradation.
 
 This is not AI safety.
 This is interaction physics.
